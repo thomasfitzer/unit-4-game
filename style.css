@@ -1,0 +1,205 @@
+#mainbox{
+    width: 960px;
+    height: 700px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFC62F;
+    margin: auto;
+
+
+}
+
+#titlebox{
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #FFC62F;
+    width: 960px;
+    height: 100px;
+    background-color: #4F2683;
+}
+
+#textbox{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFC62F;
+    width: 25%;
+    height: 70px;
+    margin: auto;
+    position: relative;
+    top: 15px;
+    background-color: #4F2683;
+   
+}
+#headertext{
+    margin: auto;
+    text-align: center;
+    margin: 15px 0px 0px 0px;
+    color: #FFC62F;
+    font-size: 24px;
+    position: relative;
+    bottom: 8px;
+}
+#contentmain{
+    width: 960px;
+    height: 550px;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #FFC62F;
+    margin: auto;
+    background-color: #4F2683;
+   
+}
+
+#instructions{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFC62F;
+    width: 440px;
+    height: 500px;
+    margin: 30px 0px 0px 20px;
+    float: left;
+    color: #FFC62F;
+    font-family: url(vikingsfont.ttf);
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+#winslosses{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFC62F;
+    width: 440px;
+    height: 60px;
+    float: right;
+    margin: 30px 20px 0px 0px;
+}
+#winstext{
+    font-size: 24px;
+    color:#FFC62F;
+    text-align: center;
+    text-decoration: underline;
+    float: left;
+    position: relative;
+    left: 25px;
+    top: 10px;
+   
+
+}
+
+#totalwins{
+    color: #FFC62F;
+    position: relative;
+    left: 95px;
+    bottom: 55px;
+    font-family: url(vikingsfont.ttf);
+    font-size: 35px;
+}
+
+#lossestext{
+    font-size: 24px;
+    color:#FFC62F;
+    text-align: center;
+    text-decoration: underline;
+    float: right;
+    position: relative;
+    right: 125px;
+    top: 10px;
+
+}
+
+#totalloss {
+    color: #FFC62F;
+    position: relative;
+    left: 95px;
+    bottom: 55px;
+    font-family: url(vikingsfont.ttf);
+    font-size: 35px;
+} 
+
+#targetscore{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFC62F;
+    width: 163px;
+    height: 405px;
+    float: right;
+    margin: 30px 20px 0px 15px;
+    font-family: url(vikingsfont.ttf);
+    font-size: 24px;
+    color:#FFC62F;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#numbertarget{
+    color: #FFC62F;
+    position: relative;
+    top: 110px;
+    font-family: url(vikingsfont.ttf);
+    font-size: 60px;
+}
+
+#buttonbox{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFC62F;
+    width: 75px;
+    height: 405px;
+    float: right;
+    margin: 30px 0px 20px 15px;
+
+
+}
+
+#moss{
+    float: left;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #FFC62F;
+   
+
+}
+
+#page{
+   float: left;
+   border-style: solid;
+   border-width: 0px 0px 2px 0px;
+   border-color: #FFC62F;
+
+}
+
+#peterson{
+   float: left;
+   border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #FFC62F;
+}
+
+#fran{
+   float: left;
+   
+}
+
+#playerscore{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFC62F;
+    width: 163px;
+    height: 405px;
+    float: right;
+    margin: 30px 0px 20px 0px;
+    font-size: 24px;
+    color:#FFC62F;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#numberplayer {
+    color: #FFC62F;
+    position: relative;
+    top: 110px;
+    font-family: url(vikingsfont.ttf);
+    font-size: 60px;
+}

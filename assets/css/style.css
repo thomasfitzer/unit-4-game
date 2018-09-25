@@ -1,0 +1,97 @@
+#mainbox{
+    width: 960px;
+    height: 700px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: auto;
+
+
+}
+
+#titlebox{
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: black;
+    width: 960px;
+    height: 100px;
+}
+
+#textbox{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 25%;
+    height: 70px;
+    margin: auto;
+    position: relative;
+    top: 15px;
+   
+}
+#headertext{
+    margin: auto;
+    text-align: center;
+    margin: 15px 0px 0px 0px;
+}
+#contentmain{
+    width: 960px;
+    height: 550px;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: black;
+    margin: auto;
+   
+}
+
+#instructions{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: black;
+    width: 440px;
+    height: 500px;
+    margin: 30px 0px 0px 20px;
+    float: left;
+    
+}
+
+#winslosses{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 440px;
+    height: 60px;
+    float: right;
+    margin: 30px 20px 0px 0px;
+}
+
+#goalscore{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 173px;
+    height: 390px;
+    float: right;
+    margin: 30px 20px 20px 15px;
+}
+
+#gamebuttons{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 55px;
+    height: 390px;
+    float: right;
+    margin: 30px 0px 20px 15px;
+
+
+}
+
+#playerscore{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 173px;
+    height: 390px;
+    float: right;
+    margin: 30px 0px 20px 0px;
+}

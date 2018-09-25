@@ -1,0 +1,18 @@
+// function to assign random points to fruits ... 1-12
+    function getfruitPoints(fruitPoints) {
+        var min = 1;
+        var max = 12;
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+    console.log("fruit points: " + getfruitPoints());
+
+    // created object fruit row where key names = fruit values 
+    var fruitRow = {
+        fruit0: $("#fruit0"),
+        fruit1: $("#fruit1"),
+        fruit2: $("#fruit2"),
+        fruit3: $("#fruit3")
+    };
+    console.log(fruitRow);
+
+    // loop through object and set each fruit to a random generated value
